@@ -34,7 +34,6 @@ Proyek ini melakukan **data cleaning dan analisis** terhadap **5 aset finansial*
 | 💼 **Fed Funds Rate** | [`Data Historis Federal Funds Composite Interest Rate.csv`](./Data%20Historis%20Federal%20Funds%20Composite%20Interest%20Rate.csv) | ~400KB | Historical Data |
 | 📈 **Jakarta Stock** | [`Data Historis Jakarta Stock Exchange Composite.csv`](./Data%20Historis%20Jakarta%20Stock%20Exchange%20Composite.csv) | ~350KB | Market Data |
 | 📊 **Inflation Data** | [`data inflasi.csv`](./data%20inflasi.csv) | ~5KB | Economic Data |
-| 📊 **Inflation Excel** | [`Data Inflasi.xlsx`](./Data%20Inflasi.xlsx) | ~15KB | Official Statistics |
 | 🛢️ **Crude Oil** | [`PET_PRI_SPT_S1_D.xls`](./PET_PRI_SPT_S1_D.xls) | ~2MB | EIA Database |
 
 ### 📁 **Cleaned Data Files**
