@@ -270,10 +270,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 **CONTACT**
 
-**Project Maintainer**: [Your Name]
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Project Maintainer**: Big Data Team
+- 🐙 GitHub: [@irfanprayoga29](https://github.com/irfanprayoga29)
+- 💼 LinkedIn: [Satrai Irfan Prayoga](https://www.linkedin.com/in/satria-irfan-prayoga)
 
 **Project Link**: [https://github.com/yourusername/multi-asset-financial-analysis](https://github.com/yourusername/multi-asset-financial-analysis)
 
@@ -299,6 +298,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*Built with ❤️ for financial analysis and data science*
+*Built by Satria Irfan Prayoga*
 
 </div>
